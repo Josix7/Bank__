@@ -1,0 +1,7 @@
+Daniel A made a balance inquiry on Checking-1078. Daniel A's Balance for Checking-1078: $857.56
+Derek Aguirre deposited $300.0 to Checking-1048. Derek Aguirre's New Balance for Checking-1048: $2145.56
+Daniel A transferred $1.0 from Saving-2078 to Derek Aguirre's Checking-1048. Daniel A's New Balance for Saving-2078: $1.79. Derek Aguirre's New Balance for Checking-1048: $2146.56
+Derek Aguirre deposited $1000.0 to Checking-1048. Derek Aguirre's New Balance for Checking-1048: $2845.56
+Jafar Aladdin withdrew $1000.0 in cash from Checking-1017. Jafar Aladdin's Balance for Checking-1017: $518.07
+Jafar Aladdin withdrew $1000.0 in cash from Checking-1017. Jafar Aladdin's Balance for Checking-1017: $518.07
+Daniel A withdrew $3.0 in cash from Checking-1078. Daniel A's Balance for Checking-1078: $854.56
